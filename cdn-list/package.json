@@ -7,7 +7,7 @@
 	"engines": {
 		"vscode": "^1.63.0"
 	},
-	"icon": "./icon.png",
+	"icon": "icon.png",
 	"keywords": [
 		"cdn",
 		"library",
@@ -15,6 +15,11 @@
 		"css",
 		"js"
 	],
+	"repository": {
+		"url": "https://github.com/aryan-mann/open-source.git",
+		"type": "git",
+		"directory": "cdn-list"
+	},
 	"author": {
 		"email": "aryan@aryanmann.com",
 		"name": "Aryan Mann",
